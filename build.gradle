@@ -29,7 +29,7 @@ dependencies {
     // Use JUnit test framework
     testImplementation 'junit:junit:4.12'
 
-    implementation 'com.github.ewpratten:hsa2:v4.4'
+    implementation 'com.github.ewpratten:hsa2:-SNAPSHOT'
 }
 
 // Define the main class for the application
